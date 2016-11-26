@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.activemq.protobuf:activemq-protobuf:1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.activemq.protobuf/activemq-protobuf/1.0/596719e6d3787a89ec6ff1fb131578b649df22a6/activemq-protobuf-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.activemq.protobuf/activemq-protobuf/1.0/6b83636068108adf05d9e0e3ebdcaccc6cd4877/activemq-protobuf-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

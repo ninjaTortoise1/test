@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="workingxmlToClass:main" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="working" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../../build/classes/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: org.apache.camel:camel-core:2.12.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.camel:camel-xstream:2.12.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.camel:camel-jms:2.12.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.camel:camel-spring:2.12.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.camel:camel-http:2.12.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.activemq:activemq-core:5.3.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.camel:camel-twitter:2.12.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.camel:camel-websocket:2.12.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-log4j12:1.7.5" level="project" />
+    <orderEntry type="library" name="Gradle: log4j:log4j:1.2.17" level="project" />
+    <orderEntry type="library" name="Gradle: com.thoughtworks.xstream:xstream:1.4.7" level="project" />
+    <orderEntry type="library" name="Gradle: com.sun.xml.bind:jaxb-impl:2.2.6" level="project" />
+    <orderEntry type="library" name="Gradle: stax:stax-api:1.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.jettison:jettison:1.3.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.woodstox:woodstox-core-asl:4.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-jms:3.2.4.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-context:3.2.4.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-tx:3.2.4.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-beans:3.2.4.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-aop:3.2.4.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.geronimo.specs:geronimo-servlet_2.5_spec:1.2" level="project" />
+    <orderEntry type="library" name="Gradle: commons-httpclient:commons-httpclient:3.1" level="project" />
+    <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.8" level="project" />
+    <orderEntry type="library" name="Gradle: commons-logging:commons-logging-api:1.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.geronimo.specs:geronimo-jms_1.1_spec:1.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.activemq:activeio-core:3.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.activemq:kahadb:5.3.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.activemq.protobuf:activemq-protobuf:1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.osgi:org.osgi.core:4.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.osgi:spring-osgi-core:1.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.geronimo.specs:geronimo-j2ee-management_1.0_spec:1.0" level="project" />
+    <orderEntry type="library" name="Gradle: commons-net:commons-net:2.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.twitter4j:twitter4j-core:3.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.twitter4j:twitter4j-stream:3.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-websocket:7.6.9.v20130131" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-servlet:7.6.9.v20130131" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-servlets:7.6.9.v20130131" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-jmx:7.6.9.v20130131" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.woodstox:stax2-api:3.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: aopalliance:aopalliance:1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-core:3.2.4.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.geronimo.specs:geronimo-j2ee-management_1.1_spec:1.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.osgi:spring-osgi-io:1.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-util:7.6.9.v20130131" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-io:7.6.9.v20130131" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-http:7.6.9.v20130131" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-security:7.6.9.v20130131" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-continuation:7.6.9.v20130131" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-client:7.6.9.v20130131" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-server:7.6.9.v20130131" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty.orbit:javax.servlet:2.5.0.v201103041518" level="project" />
+    <orderEntry type="library" name="Gradle: xmlpull:xmlpull:1.1.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: xpp3:xpp3_min:1.1.4c" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-expression:3.2.4.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.1.1" level="project" />
+  </component>
+</module>

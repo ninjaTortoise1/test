@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.camel:camel-websocket:2.12.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.camel/camel-websocket/2.12.1/3287d417f7426062a1c5bbd59a6823703316e615/camel-websocket-2.12.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.camel/camel-websocket/2.12.1/5d97199e85cd39df8c15c0d88e82e7c7e920e7b5/camel-websocket-2.12.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

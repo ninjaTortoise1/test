@@ -1,0 +1,32 @@
+group 'working'
+version '1.0-SNAPSHOT'
+
+task wrapper(type: Wrapper) {
+  gradleVersion = '2.13'
+  distributionUrl = "https://services.gradle.org/distributions/gradle-$gradleVersion-all.zip"
+}
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.5
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile "org.apache.camel:camel-core:2.12.1"
+    compile "org.apache.camel:camel-xstream:2.12.1"
+    compile "org.apache.camel:camel-jms:2.12.1"
+    compile "org.apache.camel:camel-spring:2.12.1"
+    compile "org.apache.camel:camel-http:2.12.1"
+    compile "org.apache.activemq:activemq-core:5.3.2"
+    compile "org.apache.camel:camel-twitter:2.12.1"
+    compile "org.apache.camel:camel-websocket:2.12.1"
+    compile "org.slf4j:slf4j-api:1.7.5"
+    compile "org.slf4j:slf4j-log4j12:1.7.5"
+    compile "log4j:log4j:1.2.17"
+    testCompile "org.apache.camel:camel-test:2.12.1"
+    compile "com.thoughtworks.xstream:xstream:1.4.7"
+    testCompile group: 'junit', name: 'junit', version: '4.11'
+}

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.camel:camel-twitter:2.12.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.camel/camel-twitter/2.12.1/a85f1874f7b7d6f2e501df968d67644e8ba5e598/camel-twitter-2.12.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.camel/camel-twitter/2.12.1/a14ff291cdb593a4d16563420efa65b5d4219566/camel-twitter-2.12.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -6,7 +6,7 @@ import org.apache.camel.ProducerTemplate;
 import org.apache.camel.builder.RouteBuilder;
 import org.apache.camel.impl.DefaultCamelContext;
 
-public class TransformationXMLUsingXstream {
+public class TransformXMLXstream {
 
     public static void main(String[] args) throws Exception {
         try {

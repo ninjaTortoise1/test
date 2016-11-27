@@ -1,6 +1,4 @@
-/**
- * Created by ananta on 11/7/2016.
- */
+
 import org.apache.camel.CamelContext;
 import org.apache.camel.ProducerTemplate;
 import org.apache.camel.builder.RouteBuilder;
